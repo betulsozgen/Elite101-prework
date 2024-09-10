@@ -36,6 +36,6 @@ def options():
     print("Please type in a number from 1 to 4")
     options()
 
-print("Welcome to the Elite 101 chatbot!")
+print("Welcome to the Elite 101 chatbot!!!")
 intro()
 options()
