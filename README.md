@@ -1,2 +1,11 @@
-# Elite101-prework
-The work to get set up for Elite 101
+# Introduction
+This is a repository created by *Betul*
+
+## Usage
+Run this command to execute the application:
+
+`python filename.py`
+
+ 
+
+```
